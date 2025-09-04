@@ -13,7 +13,7 @@ The database gathers data from multiple sources, retrieved through `webscraping`
 
 This project demonstrates `PostgreSQL` skills for **real-world decision support systems** in higher education.
 
-![Dashboard 1](dashboard_for_parents.png)
+![Dashboard 1](dashboard_for_parent.png)
 
 ![Dashboard 2](dashboard_for_agency.png)
 
