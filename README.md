@@ -1,4 +1,17 @@
-# Design Document
+# Global Universities SQL Database
+
+## Executive Summary
+
+Studying abroad is one of the most significant investments a family can make for a student’s future. Parents and advisors often need to compare complex data about tuition, living expenses, rankings, and international opportunities across many countries. This project provides a **relational SQL database** designed to support a **study abroad agency** in organizing, comparing, and presenting global university information in a parent-friendly and data-driven way.  
+
+The database gathers data from multiple sources, retrieved through `webscraping` — tuition, exchange rates, rankings, living costs, and population stats — into a unified model. With this foundation, advisors can generate reliable insights such as:  
+
+- Which universities are most affordable when combining tuition and living costs.  
+- How rankings and scores differ across ranking providers.  
+- Which destinations are most open to international students.  
+- Trend analyses of affordability and student populations over time.  
+
+This project demonstrates `PostgreSQL` skills for **real-world decision support systems** in higher education.
 
 By Van Tran (Hazel)
 
