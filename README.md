@@ -2,7 +2,8 @@
 
 By Van Tran (Hazel)
 
-Video overview: [Watch here](<https://youtu.be/Qa60PZPE32I>)
+![Entity Relationship Diagram](ER_diagram.png)
+
 
 ---
 
