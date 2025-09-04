@@ -1,0 +1,138 @@
+id,country_livingcost,name,country_THE,country_id,rent_raw,rent_discounted,living_cost index raw,generated,cost_living_index
+1,Albania,Albania,Albania,1,400.0,260.0,,35.0,35.0
+2,Armenia,Armenia,Armenia,2,350.0,230.0,,32.0,32.0
+3,Australia,Australia,Australia,3,1400.0,930.0,68.24534883720928,,68.2
+4,Austria,Austria,Austria,4,950.0,630.0,71.06666666666668,,71.1
+5,Azerbaijan,Azerbaijan,Azerbaijan,5,400.0,260.0,,30.0,30.0
+6,Bahrain,Bahrain,Bahrain,6,700.0,460.0,62.860000000000014,,62.9
+7,Bangladesh,Bangladesh,Bangladesh,7,250.0,160.0,38.96,,39.0
+8,Belarus,Belarus,Belarus,8,350.0,230.0,,34.0,34.0
+9,Belgium,Belgium,Belgium,9,1000.0,670.0,71.3111111111111,,71.3
+10,Bosnia & Herzegovina,Bosnia & Herzegovina,Bosnia and Herzegovina,10,300.0,200.0,,36.0,36.0
+11,Brunei,Brunei,Brunei Darussalam,11,700.0,460.0,,50.0,50.0
+12,Bulgaria,Bulgaria,Bulgaria,12,400.0,260.0,44.96,,45.0
+13,Cambodia,Cambodia,Cambodia,13,400.0,260.0,,38.0,38.0
+14,Canada,Canada,Canada,14,1600.0,1070.0,62.949999999999996,,63.0
+15,Cayman Islands,Cayman Islands,Cayman Islands,15,2500.0,1670.0,,86.0,86.0
+16,China,China (Mainland),China,16,800.0,530.0,47.133333333333326,,47.1
+17,Côte d’Ivoire,Côte d’Ivoire,Côte d’Ivoire,17,600.0,400.0,,42.0,42.0
+18,Ukraine,Crimea,Ukraine,18,400.0,260.0,42.760000000000005,,42.8
+19,Croatia,Croatia,Croatia,19,450.0,300.0,55.050000000000004,,55.0
+20,Curaçao,Curaçao,Curaçao,20,1000.0,670.0,,55.0,55.0
+21,Cyprus,Cyprus,Cyprus,21,600.0,400.0,60.96666666666667,,61.0
+22,Czech Republic,Czech Republic,Czech Republic,22,650.0,430.0,54.6,,54.6
+23,Czech Republic,Czechia,Czech Republic,23,650.0,430.0,54.6,,54.6
+24,Denmark,Denmark,Denmark,24,1300.0,870.0,73.72,,73.7
+25,Dominica,Dominica,Dominica,25,800.0,530.0,,49.0,49.0
+26,Ecuador,Ecuador,Ecuador,26,400.0,260.0,42.64,,42.6
+27,Egypt,Egypt,Egypt,27,450.0,300.0,31.142857142857146,,31.1
+28,Estonia,Estonia,Estonia,28,800.0,530.0,,57.0,57.0
+29,Fiji,Fiji,Fiji,29,700.0,460.0,,47.0,47.0
+30,Finland,Finland,Finland,30,1100.0,730.0,70.92727272727272,,70.9
+31,France,France,France,31,1400.0,930.0,71.65185185185184,,71.7
+32,French Polynesia,French Polynesia,French Polynesia,32,1200.0,800.0,,65.0,65.0
+33,Georgia,Georgia,Georgia,33,500.0,330.0,,29.0,29.0
+34,Germany,Germany,Germany,34,1100.0,730.0,67.9818181818182,,68.0
+35,Greece,Greece,Greece,35,550.0,360.0,60.94117647058823,,60.9
+36,Hong Kong,Hong Kong SAR,Hong Kong,36,1500.0,1000.0,78.6,,78.6
+37,Hungary,Hungary,Hungary,37,500.0,330.0,46.887499999999996,,46.9
+38,Iceland,Iceland,Iceland,38,1200.0,800.0,81.75,,81.8
+39,India,India,India,39,500.0,330.0,43.37500000000001,,43.4
+40,Indonesia,Indonesia,Indonesia,40,500.0,330.0,41.4875,,41.5
+41,Iran,Iran,Iran,41,400.0,260.0,47.96,,48.0
+42,Iraq,Iraq,Iraq,42,300.0,200.0,,33.0,33.0
+43,Ireland,Ireland,Ireland,43,1600.0,1070.0,71.71000000000001,,71.7
+44,Iran,Islamic Republic of,Iran,44,400.0,260.0,47.96,,48.0
+45,Israel,Israel,Israel,45,1200.0,800.0,76.2,,76.2
+46,Italy,Italy,Italy,46,1100.0,730.0,69.88235294117648,,69.9
+47,Japan,Japan,Japan,47,1300.0,870.0,68.025,,68.0
+48,Jordan,Jordan,Jordan,48,400.0,260.0,,45.0,45.0
+49,Kazakhstan,Kazakhstan,Kazakhstan,49,500.0,330.0,,31.0,31.0
+50,Kosovo,Kosovo,Kosovo,50,350.0,230.0,,33.0,33.0
+51,Kuwait,Kuwait,Kuwait,51,800.0,530.0,67.28,,67.3
+52,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,52,400.0,260.0,,27.0,27.0
+53,Latvia,Latvia,Latvia,53,700.0,460.0,,54.0,54.0
+54,Lebanon,Lebanon,Lebanon,54,600.0,400.0,54.54,,54.5
+55,Liechtenstein,Liechtenstein,Liechtenstein,55,1800.0,1200.0,,78.0,78.0
+56,Lithuania,Lithuania,Lithuania,56,700.0,460.0,,52.0,52.0
+57,Luxembourg,Luxembourg,Luxembourg,57,1400.0,930.0,78.9,,78.9
+58,Macau SAR,Macau SAR,Macao,58,1500.0,1000.0,,72.0,72.0
+59,Malaysia,Malaysia,Malaysia,59,500.0,330.0,51.42,,51.4
+60,Maldives,Maldives,Maldives,60,1200.0,800.0,,55.0,55.0
+61,Malta,Malta,Malta,61,1200.0,800.0,,60.0,60.0
+62,Moldova,Moldova,Moldova,62,400.0,260.0,,28.0,28.0
+63,Monaco,Monaco,Monaco,63,4000.0,2680.0,,92.0,92.0
+64,Mongolia,Mongolia,Mongolia,64,500.0,330.0,,34.0,34.0
+65,Montenegro,Montenegro,Montenegro,65,600.0,400.0,,43.0,43.0
+66,Myanmar (Burma),Myanmar (Burma),Myanmar (Burma),66,500.0,330.0,,34.0,34.0
+67,Nepal,Nepal,Nepal,67,200.0,130.0,,31.0,31.0
+68,Netherlands,Netherlands,Netherlands,68,1500.0,1000.0,71.0047619047619,,71.0
+69,Netherlands Antilles,Netherlands Antilles,Netherlands Antilles,69,1200.0,800.0,,,
+70,New Caledonia,New Caledonia,New Caledonia,70,1300.0,870.0,,66.0,66.0
+71,New Zealand,New Zealand,New Zealand,71,1200.0,800.0,72.86666666666666,,72.9
+72,North Macedonia,North Macedonia,North Macedonia,72,400.0,260.0,,35.0,35.0
+73,Northern Cyprus,Northern Cyprus,Northern Cyprus,73,500.0,330.0,,46.0,46.0
+74,Norway,Norway,Norway,74,1400.0,930.0,72.32727272727271,,72.3
+75,Oman,Oman,Oman,75,900.0,600.0,,53.0,53.0
+76,Pakistan,Pakistan,Pakistan,76,200.0,130.0,,20.0,20.0
+77,Palestine,Palestine,Palestine,77,400.0,260.0,,32.0,32.0
+78,Philippines,Philippines,Philippines,78,400.0,260.0,,38.0,38.0
+79,Poland,Poland,Poland,79,650.0,430.0,50.775000000000006,,50.8
+80,Portugal,Portugal,Portugal,80,800.0,530.0,58.099999999999994,,58.1
+81,Qatar,Qatar,Qatar,81,1800.0,1200.0,,61.0,61.0
+82,Romania,Romania,Romania,82,450.0,300.0,41.785714285714285,,41.8
+83,Russia,Russia,Russian Federation,83,700.0,460.0,54.02222222222222,,54.0
+84,Saudi Arabia,Saudi Arabia,Saudi Arabia,84,800.0,530.0,65.45,,65.4
+85,Senegal,Senegal,Senegal,85,600.0,400.0,,41.0,41.0
+86,Serbia,Serbia,Serbia,86,350.0,230.0,44.96,,45.0
+87,Singapore,Singapore,Singapore,87,1900.0,1270.0,82.02222222222221,,82.0
+88,Slovakia,Slovakia,Slovakia,88,800.0,530.0,,52.0,52.0
+89,Slovenia,Slovenia,Slovenia,89,500.0,330.0,58.0,,58.0
+90,South Korea,South Korea,South Korea,90,900.0,600.0,74.75217391304349,,74.8
+91,Spain,Spain,Spain,91,950.0,630.0,66.78823529411764,,66.8
+92,Sri Lanka,Sri Lanka,Sri Lanka,92,300.0,200.0,,30.0,30.0
+93,St. Lucia,St. Lucia,St. Lucia,93,1000.0,670.0,,57.0,57.0
+94,Sweden,Sweden,Sweden,94,1200.0,800.0,70.86000000000001,,70.9
+95,Switzerland,Switzerland,Switzerland,95,2100.0,1400.0,97.82000000000001,,97.8
+96,Syria,Syria,Syria,96,200.0,130.0,,28.0,28.0
+97,Taiwan,Taiwan,Taiwan,97,700.0,460.0,62.8,,62.8
+98,Thailand,Thailand,Thailand,98,450.0,300.0,44.7875,,44.8
+99,Turkey,Türkiye,Turkey,99,450.0,300.0,46.65555555555555,,46.7
+100,Turkey,Türkiye ,Turkey,100,450.0,300.0,46.65555555555555,,46.7
+101,Ukraine,Ukraine,Ukraine,101,400.0,260.0,42.760000000000005,,42.8
+102,UAE,United Arab Emirates,United Arab Emirates,102,1200.0,800.0,67.325,,67.3
+103,UK,United Kingdom,United Kingdom,103,1800.0,1200.0,70.59354838709673,,70.6
+104,USA,United States,United States,104,2200.0,1470.0,77.79615384615387,,77.8
+105,Uzbekistan,Uzbekistan,Uzbekistan,105,300.0,200.0,40.36,,40.4
+106,Vietnam,Vietnam,Vietnam,106,450.0,300.0,43.6,,43.6
+107,Yemen,Yemen,Yemen,107,200.0,130.0,,24.0,24.0
+108,,Algeria,Algeria,108,,,,,
+109,,Argentina,Argentina,109,,,,,
+110,,Botswana,Botswana,110,,,,,
+111,,Brazil,Brazil,111,,,,,
+112,,Chile,Chile,112,,,,,
+113,,Colombia,Colombia,113,,,,,
+114,,Costa Rica,Costa Rica,114,,,,,
+115,,Cuba,Cuba,115,,,,,
+116,,Democratic Republic of the Congo,Democratic Republic of the Congo,116,,,,,
+117,,Ethiopia,Ethiopia,117,,,,,
+118,,Ghana,Ghana,118,,,,,
+119,,Jamaica,Jamaica,119,,,,,
+120,,Kenya,Kenya,120,,,,,
+121,,Mauritius,Mauritius,121,,,,,
+122,,Mexico,Mexico,122,,,,,
+123,,Morocco,Morocco,123,,,,,
+124,,Mozambique,Mozambique,124,,,,,
+125,,Namibia,Namibia,125,,,,,
+126,,Nigeria,Nigeria,126,,,,,
+127,,Paraguay,Paraguay,127,,,,,
+128,,Peru,Peru,128,,,,,
+129,,Puerto Rico,Puerto Rico,129,,,,,
+130,,Rwanda,Rwanda,130,,,,,
+131,,South Africa,South Africa,131,,,,,
+132,,Tanzania,Tanzania,132,,,,,
+133,,Tunisia,Tunisia,133,,,,,
+134,,Uganda,Uganda,134,,,,,
+135,,Venezuela,Venezuela,135,,,,,
+136,,Zambia,Zambia,136,,,,,
+137,,Zimbabwe,Zimbabwe,137,,,,,
