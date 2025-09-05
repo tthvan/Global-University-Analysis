@@ -13,6 +13,8 @@ The database gathers data from multiple sources, retrieved through `webscraping`
 
 This project demonstrates `PostgreSQL` skills for **real-world decision support systems** in higher education.
 
+- [Link to Tableau Dashboard](<https://public.tableau.com/views/university_dashboard_17531149157180/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>)
+
 ![Dashboard 1](dashboard_for_parent.png)
 
 ![Dashboard 2](dashboard_for_agency.png)
